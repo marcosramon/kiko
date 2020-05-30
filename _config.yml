@@ -45,14 +45,14 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
+  - name:           "Sobre"
     url:            "/sobre"
-  - name:           "Archive"
-    url:            "/archive"
+  - name:           "Arquivo"
+    url:            "/arquivo"
   - name:           "Tags"
     url:            "/tags"
-  - name:           "Github"
-    url:            "https://github.com/marcosramon"
+  - name:           "Filosofia"
+    url:            "https://marcosramon.net/filosofia"
 
 # Sass
 sass:
