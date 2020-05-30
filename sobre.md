@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Sobre
+permalink: /sobre/
 ---
 
 ## O autor
