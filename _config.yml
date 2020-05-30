@@ -3,13 +3,13 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Kiko Plus"
+name:               "Marcos Ramon"
 
 author:
   facebook:         your-id
   youtubeUser:      your-id
   youtubeChannel:   your-id
-  twitter:          your-id
+  twitter:          mrtollens
   github:           your-id
   stackoverflow:    your-id
   quora:            your-id
@@ -20,29 +20,29 @@ author:
   reddit:           your-id
   medium:           your-id
   tumblr:           your-id
-  email:            your-id@your-email.com
+  email:            contato@marcosramon.net
 
 copyright:
-  year:             2017
-  name:             Kiko
+  year:             2020
+  name:             Marcos Ramon
 
 # Google-analytics
 google-analytics:
-  id:               ""
+  id:               "UA-25904919-5"
 
 # Disqus
 disqus:
   id:               "kiko-plus"
 
 # URL
-url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
+url:                "https://marcosramon.net" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
-baseurl:            "/Kiko-plus" # the subpath of your site, e.g. /blog
+baseurl:            "" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           Asia/Seoul
-permalink:          /:year-:month-:day/:title/
+timezone:           America/Sao_Paulo
+permalink:          /:categories/:title/
 
 # Pagination
 paginate:           5
