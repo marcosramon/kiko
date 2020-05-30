@@ -48,7 +48,7 @@ nav:
   - name:           "Sobre"
     url:            "/sobre"
   - name:           "Arquivo"
-    url:            "/arquivo"
+    url:            "/archive"
   - name:           "Tags"
     url:            "/tags"
   - name:           "Filosofia"
