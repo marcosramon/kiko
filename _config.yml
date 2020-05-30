@@ -32,7 +32,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "kiko-plus"
+  id:               "mramon"
 
 # URL
 url:                "https://marcosramon.net" # the base hostname & protocol for your site
@@ -56,13 +56,13 @@ kramdown:
 # Navigation
 nav:
   - name:           "About"
-    url:            "/about"
+    url:            "/sobre"
   - name:           "Archive"
     url:            "/archive"
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+    url:            "https://github.com/marcosramon"
 
 # Sass
 sass:
