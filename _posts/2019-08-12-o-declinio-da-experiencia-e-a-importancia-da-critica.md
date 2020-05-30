@@ -1,6 +1,6 @@
 ---
 title: "O declínio da experiência e a importância da crítica"
-excerpt: "Quando perdemos a capacidade de ler a realidade"
+description: "Quando perdemos a capacidade de ler a realidade"
 date: 2019-08-12
 published: true
 og_image: assets/images/benjamin.jpg
